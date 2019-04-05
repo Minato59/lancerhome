@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lancerhome.web", "lancerhome.web\lancerhome.web.csproj", "{B45413C7-57F9-4318-8FD5-10B536D0354B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lancerhome.entities", "lancerhome.entities\lancerhome.entities.csproj", "{E15E7B6C-6700-49BC-A7C6-803EE1BC5823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lancerhome.database", "lancerhome.database\lancerhome.database.csproj", "{DA7AA44D-653C-4BF0-A1D8-B1FE93234BF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B45413C7-57F9-4318-8FD5-10B536D0354B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B45413C7-57F9-4318-8FD5-10B536D0354B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B45413C7-57F9-4318-8FD5-10B536D0354B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E15E7B6C-6700-49BC-A7C6-803EE1BC5823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15E7B6C-6700-49BC-A7C6-803EE1BC5823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15E7B6C-6700-49BC-A7C6-803EE1BC5823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15E7B6C-6700-49BC-A7C6-803EE1BC5823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7AA44D-653C-4BF0-A1D8-B1FE93234BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7AA44D-653C-4BF0-A1D8-B1FE93234BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7AA44D-653C-4BF0-A1D8-B1FE93234BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7AA44D-653C-4BF0-A1D8-B1FE93234BF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
